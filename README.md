@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" width="340"/> -->
-   <img src="https://media.giphy.com/media/qCj1NK1rxtnna/giphy.gif" width="600"/>
+   <img src="https://media.giphy.com/media/qCj1NK1rxtnna/giphy.gif" width="500"/>
 </div>
 
 ### :fire: My Stats :
