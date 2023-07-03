@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<div id="header" align="center">
-  <img src="https://media.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" width="340"/>
-</div>-->
+<div id="header" align="center">
+<!--   <img src="https://media.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif" width="340"/> -->
+   <img src="[[https://media.giphy.com/media/mCmc21BKYUuC2A6p8H/giphy.gif](https://thumbs.gfycat.com/EminentElatedBabirusa-mobile.mp4)](https://gfycat.com/eminentelatedbabirusa)" width="340"/>
+</div>
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArsPalazzz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
